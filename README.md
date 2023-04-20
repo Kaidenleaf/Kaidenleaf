@@ -26,6 +26,7 @@ I'm a software engineer who likes to learn about web, game development and somet
 </br>
 </br>
 
+---
 ### 📖 Learning
 
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
