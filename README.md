@@ -1,6 +1,9 @@
 # 🍃 Kaidenleaf
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono+Nerd+Font&pause=1000&width=435&lines=People%E2%80%99s+dreams...++have+no+ends!" alt="Typing SVG" />
 I'm a software engineer who likes to learn about web, game development and sometimes about data analysis and machine learning.
+
+<br>
 
 ---
 ### 🛠️ Tools and Languages
@@ -21,7 +24,7 @@ I'm a software engineer who likes to learn about web, game development and somet
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
 
 </br>
 </br>
@@ -31,3 +34,4 @@ I'm a software engineer who likes to learn about web, game development and somet
 
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
